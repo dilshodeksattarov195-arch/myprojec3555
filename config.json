@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerrender",
+        "uuid": 11297790,
+        "checksum": "rp8wxd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
